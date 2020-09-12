@@ -1,0 +1,3 @@
+export const ADD_TODO_TASK = 'ADD_TODO_TASK'
+export const UPDATE_COLUMNS = 'UPDATE_COLUMNS'
+export const DELETE_TASK = 'DELETE_TASK'
